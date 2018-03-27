@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 name: Cyber Phreek, Cyber Security Blog
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
